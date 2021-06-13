@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @baneetkumar-07
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, REACT etc.
+- 🌱 I’m currently learning HTML, CSS, JS, REACT etc.
+- 👨‍💻 I'm a crypto enthusiast.
 - 📫 How to reach me www.linkedin.com/in/baneet-kumar
 
 <!---
